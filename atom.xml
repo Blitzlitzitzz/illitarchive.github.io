@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://illitarchive.github.io</id>
+    <title>ILLIT ARCHIVE</title>
+    <updated>2024-01-08T16:49:37.579Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://illitarchive.github.io"/>
+    <link rel="self" href="https://illitarchive.github.io/atom.xml"/>
+    <subtitle>Hello! We are #ILLIT 안녕하세요 #아일릿 입니다</subtitle>
+    <logo>https://illitarchive.github.io/images/avatar.png</logo>
+    <icon>https://illitarchive.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, ILLIT ARCHIVE</rights>
+    <entry>
+        <title type="html"><![CDATA[230902]]></title>
+        <id>https://illitarchive.github.io/post/230902/</id>
+        <link href="https://illitarchive.github.io/post/230902/">
+        </link>
+        <updated>2023-09-02T05:34:56.000Z</updated>
+        <content type="html"><![CDATA[<p>안녕하세요 여러분! 전속력으로 달려온 #아일릿 입니다 ! 우와아아ㅏㅏㅏㅏ 여러부운 저희 데뷔조 됐어요 ㅠㅠㅠㅠㅠㅠ 앞으로의 저희 소식들 기대해 주세요! 많관부😆<br>
+<img src="https://illitarchive.github.io/post-images/1704731632904.jpg" alt="" loading="lazy"><br>
+<img src="https://illitarchive.github.io/post-images/1704731639932.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+</feed>
